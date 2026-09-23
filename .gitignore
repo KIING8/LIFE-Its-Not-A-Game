@@ -81,3 +81,7 @@ TEXTURE_*
 # Machine-specific settings files (auto-regenerated, not meant to be shared)
 Config/CrashReportClient.ini
 Config/*UserSettings.ini
+CrashReportClient/
+MacEditor/
+WindowsEditor/
+LinuxEditor/
